@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-f-hero"
+    }
+  },
+  "defaultProject": "angular-f-hero",
+  "cli": {
+    "analytics": "dcf3ec11-651b-400d-9a8e-415de95ead80"
+  }
 }
